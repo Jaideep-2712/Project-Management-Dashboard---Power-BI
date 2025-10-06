@@ -6,6 +6,8 @@ This repository contains a dynamic Power BI dashboard designed to monitor and an
 
 ### 🖼️ Dashboard Preview
 
+![Project Management Dashboard](https://github.com/Jaideep-2712/Project-Management-Dashboard---Power-BI/blob/main/Project%20Management%20Dashboard.PNG?raw=true)
+
 
 ---
 ### 🔍 Dashboard Overview
